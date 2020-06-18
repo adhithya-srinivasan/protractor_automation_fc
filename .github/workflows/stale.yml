@@ -18,3 +18,4 @@ jobs:
         stale-issue-label: 'no-issue-activity'
         stale-pr-label: 'no-pr-activity'
         remove-stale-when-updated:: 'true'
+        days-before-stale: '0' 
